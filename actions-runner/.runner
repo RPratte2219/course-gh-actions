@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 21,
-  "agentName": "DESKTOP-7GLGL46",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/BCoNcqVzIfZeihcw9jF3TUdzOW3smNWA3sImugC7dTiZr9eKor/",
-  "gitHubUrl": "https://github.com/RPratte2219/course-gh-actions",
-  "workFolder": "_work"
-}
