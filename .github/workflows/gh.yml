@@ -8,6 +8,8 @@ on:
 
 jobs:
     cli:
+        env:
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         runs-on: ubuntu-latest
         steps:
             - run: env
