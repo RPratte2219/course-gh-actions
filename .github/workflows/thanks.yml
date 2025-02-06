@@ -37,7 +37,7 @@ jobs:
                     //auto label
                     github.rest.issues.addLabels({
                         repo, owner, issue_number
-                        labels: ['todo-review']
+                        label: ['todo-review']
                     });
 
                     //make comment id available to subsequent steps
